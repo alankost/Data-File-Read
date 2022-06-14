@@ -1,5 +1,5 @@
+tkinter
 pandas
 openpyxl
-tkinter
 os
 glob
